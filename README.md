@@ -1,8 +1,8 @@
-![Imagen de portada](https://github.com/user-attachments/assets/f0922d91-09b1-4a17-a432-e57eee6286bf)
+![Imagen de portada](https://github.com/user-attachments/assets/c92bfc38-22bc-4650-8153-f41e4a368f7c)
 
 # 💫 Sobre Mí:
 
-Bienvenidos a mi sitio favorito 😃 En este espacio muestro mis proyectos personales como desarrollador web.
+Bienvenidos a mi sitio favorito 😃 En este espacio muestro mis proyectos personales como desarrollador de Software.
 
 # 💻 Stack Tecnológico:
 
