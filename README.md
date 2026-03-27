@@ -2,7 +2,7 @@
 
 # 💫 Sobre Mí:
 
-Bienvenidos a mi sitio favorito 😃 En este espacio muestro mis proyectos personales como desarrollador Web.
+Bienvenidos a mi segundo hogar 😃 En este espacio muestro mis proyectos personales como Desarrollador Web.
 
 # 💻 Stack Tecnológico:
 
