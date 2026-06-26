@@ -1,4 +1,4 @@
-![Imagen de portada](https://github.com/user-attachments/assets/2149ef97-587a-44cb-a6c7-207c6fbe53f2)
+![Imagen de portada](https://github.com/user-attachments/assets/a82701b7-67b0-4271-9d8a-4c97f640c976)
 
 # 💫 Sobre Mí:
 
